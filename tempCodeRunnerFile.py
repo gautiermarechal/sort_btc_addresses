@@ -1,0 +1,1 @@
+"%.2f" % proportion_Min_0_1

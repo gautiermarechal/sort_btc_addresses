@@ -1,0 +1,5 @@
+[{"no_addresses": 15562, "range": "100-Max", "proportion": 0.0005557857142857143},
+{"no_addresses": 97612, "range": "10-100", "proportion": 0.0034861428571428574},
+{"no_addresses": 619394, "range": "1-10", "proportion": 0.022121214285714286},
+{"no_addresses": 2035585, "range": "0.1-1", "proportion": 0.07269946428571429},
+{"no_addresses": 25231847, "range": "Min-0.1", "proportion": 0.9011373928571429}]
